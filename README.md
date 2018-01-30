@@ -1,5 +1,5 @@
 # Train-Scheduler
-commit "first html"
+commit ""
 ___________________
-Right now we are just assembling useful code from in-class activities to form a basis for homework solution
-Not claiming that this version is my work
+So far we have only assembled a train template from modified pieces of class activities.
+We do not yet have persistence.
